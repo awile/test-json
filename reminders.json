@@ -1,5 +1,5 @@
-[
-    {
+{
+    "reminders": [{
         "id": 100,
         "name": "Groceries",
         "coordinates": {
@@ -90,5 +90,5 @@
             "longitude": -2.665167,
             "latitude": 89.980167
         }
-    }
-]
+    }]
+}
