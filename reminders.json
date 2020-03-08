@@ -16,10 +16,7 @@
 }, {
     "id": 102,
     "name": "Call Someone",
-    "coordinates": {
-        "longitude": -152.665167,
-        "latitude": 59.980167
-    }
+    "scheduledTime": "2019-02-06T00:35:01Z"
 }, {
     "id": 103,
     "name": "Rent Check",
