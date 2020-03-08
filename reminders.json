@@ -1,94 +1,93 @@
-{
-    "reminders": [{
-        "id": 100,
-        "name": "Groceries",
-        "coordinates": {
-            "longitude": -116.166868,
-            "latitude": 34.011286
-        }
-    }, {
-        "id": 101,
-        "name": "Mail Package",
-        "coordinates": {
-            "longitude": -152.665167,
-            "latitude": 59.980167
-        }
-    }, {
-        "id": 102,
-        "name": "Call Someone",
-        "coordinates": {
-            "longitude": -152.665167,
-            "latitude": 59.980167
-        }
-    }, {
-        "id": 103,
-        "name": "Rent Check",
-        "coordinates": {
-            "longitude": -152.665167,
-            "latitude": 59.980167
-        }
-    }, {
-        "id": 104,
-        "name": "Apple Store",
-        "coordinates": {
-            "longitude": 852.665167,
-            "latitude":59.980167
-        }
-    }, {
-        "id": 106,
-        "name": "Look up Something",
-        "coordinates": {
-            "longitude": -152.665167,
-            "latitude": 59.444167
-        }
-    }, {
-        "id": 107,
-        "name": "Call someone",
-        "coordinates": {
-            "longitude": -152.665167,
-            "latitude": 59.933
-        }
-    }, {
-        "id": 108,
-        "name": "Work Stuff",
-        "coordinates": {
-            "longitude": -2.664848,
-            "latitude": 49.980167
-        }
-    }, {
-        "id": 109,
-        "name": "Flight",
-        "coordinates": {
-            "longitude": -2.665167,
-            "latitude": 89.980167
-        }
-    }, {
-        "id": 110,
-        "name": "Other",
-        "coordinates": {
-            "longitude": -2.664848,
-            "latitude": 49.980167
-        }
-    }, {
-        "id": 111,
-        "name": "Is this still in view",
-        "coordinates": {
-            "longitude": -2.665167,
-            "latitude": 89.980167
-        }
-    }, {
-        "id": 112,
-        "name": "Not Sure",
-        "coordinates": {
-            "longitude": -2.664848,
-            "latitude": 49.980167
-        }
-    }, {
-        "id": 113,
-        "name": "Anythin",
-        "coordinates": {
-            "longitude": -2.665167,
-            "latitude": 89.980167
-        }
-    }]
-}
+[{
+    
+    "id": 100,
+    "name": "Groceries",
+    "coordinates": {
+        "longitude": -116.166868,
+        "latitude": 34.011286
+    }
+}, {
+    "id": 101,
+    "name": "Mail Package",
+    "coordinates": {
+        "longitude": -152.665167,
+        "latitude": 59.980167
+    }
+}, {
+    "id": 102,
+    "name": "Call Someone",
+    "coordinates": {
+        "longitude": -152.665167,
+        "latitude": 59.980167
+    }
+}, {
+    "id": 103,
+    "name": "Rent Check",
+    "coordinates": {
+        "longitude": -152.665167,
+        "latitude": 59.980167
+    }
+}, {
+    "id": 104,
+    "name": "Apple Store",
+    "coordinates": {
+        "longitude": 852.665167,
+        "latitude":59.980167
+    }
+}, {
+    "id": 106,
+    "name": "Look up Something",
+    "coordinates": {
+        "longitude": -152.665167,
+        "latitude": 59.444167
+    }
+}, {
+    "id": 107,
+    "name": "Call someone",
+    "coordinates": {
+        "longitude": -152.665167,
+        "latitude": 59.933
+    }
+}, {
+    "id": 108,
+    "name": "Work Stuff",
+    "coordinates": {
+        "longitude": -2.664848,
+        "latitude": 49.980167
+    }
+}, {
+    "id": 109,
+    "name": "Flight",
+    "coordinates": {
+        "longitude": -2.665167,
+        "latitude": 89.980167
+    }
+}, {
+    "id": 110,
+    "name": "Other",
+    "coordinates": {
+        "longitude": -2.664848,
+        "latitude": 49.980167
+    }
+}, {
+    "id": 111,
+    "name": "Is this still in view",
+    "coordinates": {
+        "longitude": -2.665167,
+        "latitude": 89.980167
+    }
+}, {
+    "id": 112,
+    "name": "Not Sure",
+    "coordinates": {
+        "longitude": -2.664848,
+        "latitude": 49.980167
+    }
+}, {
+    "id": 113,
+    "name": "Anythin",
+    "coordinates": {
+        "longitude": -2.665167,
+        "latitude": 89.980167
+    }
+}]
