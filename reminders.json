@@ -46,7 +46,9 @@
             "longitude": -152.665167,
             "latitude": 59.444167
         },
-        "isActive": false
+        "isActive": false,
+        "scheduledTime": "2019-02-06T00:35:01Z",
+        "notes": "Look it up already what are you waiting for you know you need to look it up so do it"
     }, {
         "id": 107,
         "title": "Call someone",
