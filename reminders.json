@@ -99,13 +99,5 @@
             "latitude": 49.980167
         },
         "isActive": false
-    }, {
-        "id": 113,
-        "title": "Anythin",
-        "coordinates": {
-            "longitude": -2.665167,
-            "latitude": 89.980167
-        },
-        "isActive": false
     }]
 }
