@@ -5,18 +5,21 @@
         "coordinates": {
             "longitude": -116.166868,
             "latitude": 34.011286
-        }
+        },
+        "isActive": false
     }, {
         "id": 101,
         "title": "Mail Package",
         "coordinates": {
             "longitude": -152.665167,
             "latitude": 59.980167
-        }
+        },
+        "isActive": false
     }, {
         "id": 102,
         "title": "Call Someone",
-        "scheduledTime": "2019-02-06T00:35:01Z"
+        "scheduledTime": "2019-02-06T00:35:01Z",
+        "isActive": false
     }, {
         "id": 103,
         "title": "Rent Check",
@@ -24,7 +27,8 @@
             "longitude": -152.665167,
             "latitude": 59.980167
         },
-        "scheduledTime": "2019-02-06T00:35:01Z"
+        "scheduledTime": "2019-02-06T00:35:01Z",
+        "isActive": false
     }, {
         "id": 104,
         "title": "Apple Store",
@@ -32,14 +36,16 @@
             "longitude": 852.665167,
             "latitude":59.980167
         },
-        "scheduledTime": "2019-02-06T00:55:01Z"
+        "scheduledTime": "2019-02-06T00:55:01Z",
+        "isActive": false
     }, {
         "id": 106,
         "title": "Look up Something",
         "coordinates": {
             "longitude": -152.665167,
             "latitude": 59.444167
-        }
+        },
+        "isActive": false
     }, {
         "id": 107,
         "title": "Call someone",
@@ -47,7 +53,8 @@
             "longitude": -152.665167,
             "latitude": 59.933
         },
-        "scheduledTime": "2019-02-06T05:23:01Z"
+        "scheduledTime": "2019-02-06T05:23:01Z",
+        "isActive": false
     }, {
         "id": 108,
         "title": "Work Stuff",
@@ -55,7 +62,8 @@
             "longitude": -2.664848,
             "latitude": 49.980167
         },
-        "scheduledTime": "2019-02-06T12:20:01Z"
+        "scheduledTime": "2019-02-06T12:20:01Z",
+        "isActive": false
     }, {
         "id": 109,
         "title": "Flight",
@@ -63,34 +71,39 @@
             "longitude": -2.665167,
             "latitude": 89.980167
         },
-        "scheduledTime": "2019-02-06T08:05:01Z"
+        "scheduledTime": "2019-02-06T08:05:01Z",
+        "isActive": false
     }, {
         "id": 110,
         "title": "Other",
         "coordinates": {
             "longitude": -2.664848,
             "latitude": 49.980167
-        }
+        },
+        "isActive": false
     }, {
         "id": 111,
         "title": "Is this still in view",
         "coordinates": {
             "longitude": -2.665167,
             "latitude": 89.980167
-        }
+        },
+        "isActive": false
     }, {
         "id": 112,
         "title": "Not Sure",
         "coordinates": {
             "longitude": -2.664848,
             "latitude": 49.980167
-        }
+        },
+        "isActive": false
     }, {
         "id": 113,
         "title": "Anythin",
         "coordinates": {
             "longitude": -2.665167,
             "latitude": 89.980167
-        }
+        },
+        "isActive": false
     }]
 }
